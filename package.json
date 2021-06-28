@@ -1,0 +1,17 @@
+{
+  "name": "vite-boilerplate",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build --emptyOutDir",
+    "serve": "vite preview --host"
+  },
+  "devDependencies": {
+    "vite": "^2.3.8"
+  },
+  "dependencies": {
+    "sass": "^1.35.1",
+    "stats.js": "^0.17.0",
+    "three": "^0.129.0"
+  }
+}
