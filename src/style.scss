@@ -11,15 +11,14 @@ html {
 }
 
 body {
-  font-family: "Poppins", sans-serif;
   background-color: #1b1b1b;
   color: #e4e4e4;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
 }
 
 .webgl {
-  position: fixed;
-  top: 0;
-  left: 0;
-  // z-index: -1;
-  // pointer-events: none;
+  width: 100%;
+  height: 100%;
 }
